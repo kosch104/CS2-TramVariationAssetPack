@@ -1,4 +1,16 @@
 {
   "Assets.NAME[CarProp]": "CarProp",
-  "Assets.DESCRIPTION[CarProp]": "A small car prop without any functionality"
+  "Assets.DESCRIPTION[CarProp]": "A small car prop without any functionality",
+  "Assets.NAME[TramEngine01_2Car]": "Tram (4 Segments)",
+  "Assets.DESCRIPTION[TramEngine01_2Car]": "",
+  "Assets.NAME[TramEngine01_0Car]": "Tram (2 Segments)",
+  "Assets.DESCRIPTION[TramEngine01_0Car]": "",
+  "Assets.NAME[Bus03_line]": "Coach (cap. 140)",
+  "Assets.DESCRIPTION[Bus03_line]": "",
+  "Assets.NAME[TramEngine01_3Car]": "Tram (5 Segments)",
+  "Assets.DESCRIPTION[TramEngine01_3Car]": "",
+  "Assets.NAME[TramEngine01_4Car]": "Tram (6 Segments)",
+  "Assets.DESCRIPTION[TramEngine01_4Car]": "",
+  "Assets.NAME[TramEngine01_Double_1Car]": "Tram (Double)",
+  "Assets.DESCRIPTION[TramEngine01_Double_1Car]": ""
 }

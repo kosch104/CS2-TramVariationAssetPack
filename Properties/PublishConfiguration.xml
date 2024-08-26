@@ -17,9 +17,9 @@ This Pack unlocks the Evacuation Bus, as well as length variations for trams.
   <Screenshot Value="Properties/ptv_thumbnail.png" />
   <Tag Value="Code Mod" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/public-transport-vehicles-asset-pack.1676529/" />
-  <ModVersion Value="1.0.5" />
+  <ModVersion Value="1.1.0" />
   <GameVersion Value="1.1.*" />
   <Dependency Id="78903" />
-  <ChangeLog>- Fix Description and localization</ChangeLog>
+  <ChangeLog>- Remove obsolete identifier from prefabs</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
 </Publish>
